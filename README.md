@@ -2,9 +2,7 @@
 
 - [My Main Website](https://sanjibsinha.com)
 
-A new WordPress project that will progress step by step. It is based on a bootstrap theme.
-
-## Getting Started
+## I've developed this site on a free Bootstrap theme
 
 ### Each step is earmarked for a large application. However, it has started from the this repository:
 
